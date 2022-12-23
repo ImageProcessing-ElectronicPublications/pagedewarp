@@ -1,5 +1,6 @@
 # Page dewarp
-- Faster version of [pagedewarp](https://github.com/mzucker/pagedewarp) in C++.
+
+Faster version of [pagedewarp](https://github.com/mzucker/pagedewarp) in C++.
 
 ## 1. Requirements
 
@@ -26,9 +27,11 @@ Type in shell:
 ## 4. Examples
 
 The original and dewarped images are in the images folder.  
-![example](./images/example.png)
+![example](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/pagedewarp-samples/main/images/example.png)
+
+See full images in [Page dewarp samples](https://github.com/ImageProcessing-ElectronicPublications/pagedewarp-samples)
 
 ---
 
 https://github.com/ImageProcessing-ElectronicPublications/pagedewarp  
-2021  
+2022  
